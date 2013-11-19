@@ -16,7 +16,7 @@ public class EulerImplementation {
 
 	public static void main(String[] args) {
 		
-		EulerInterface impl = new Euler4();
+		EulerInterface impl = new Euler7();
 		impl.eulerInit();
 		
 	}
