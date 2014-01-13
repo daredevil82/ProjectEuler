@@ -33,6 +33,7 @@ public class Euler2 implements EulerInterface {
 				loopCount = 0;
 		
 		while ((termThree = termOne + termTwo) < limit) {
+
 			
 			if (termThree % 2 == 0)
 				fibSum += termThree;
